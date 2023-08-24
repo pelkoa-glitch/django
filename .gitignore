@@ -1,5 +1,4 @@
 # Byte-compiled / optimized / DLL files
-*.sqlite3
 *.py[cod]
 *$py.class
 
